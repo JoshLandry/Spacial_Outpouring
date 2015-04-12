@@ -1,0 +1,123 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 146
+#PICT 148
+$C1WORLD VOICE
+#PICT 167
+$C1FOR SAKE OF $BEFFICIENCY$b, 
+THIS TIME I WILL GIVE YOU $BDIRECT INSTRUCTION$b:
+
+
+THE SPRING ICON MUST BE COLLECTED:
+
+THIS ENVIRONMENT IS not SECURE FOR ITS KEEPING.
+
+
+SPEAK TO (moderator) $C1DOGUN $C1 AT THE TOP OF THE CAVE TO THE NORTH WHEN THIS IS DONE
+
+DO WHATEVER ELSE $C1DOGUN $C1BIDS YOU.
+#LOGOFF 169
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 146
+#PICT 132
+$C2Ashita
+#PICT 132
+$C2You may have noticed you're a little lighter in your feet in this area.  This cave system exhibits a tendency to $Bsoft gravity$b.
+
+What this means is that you should be able to use the $Bkickback$b from your Triple Burst Fusion Gun to jump, in the case you need to jump an exceptionally large gap, or (far more likely) extract yourself from the deathgrip of a lava pit.
+
+This is until we get you something proper with which to fly.
+#LOGOFF 132
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 146
+#PICT 128
+$C4Salve
+#PICT 128
+$C1WORLD VOICE$C4 has departed, and now $C1Dogun$C4 and I will supervise your collection of the $BSpring Icon$b.  $C1Dogun $C4also wishes you to talk to $C7AIN$C4.  I assume there must be some reason for this.  This can be done outside, from a terminal on the snowy cliffs overlooking the water $Bto the West$b.  
+
+If you have difficulty finding your way out there, that's because the only way out is through a $Bhidden passage$b located somewhere in the central lava filled chamber of the complex.  You'll have to find a $Bswitch$b to open the passageway before getting out.
+
+I'm not sure where the $Bspring icon$b could be, but I can tell you there's a $Bmachine gun$b stored in the room behind this terminal.  I've tightened up the firing pattern from what you're used to, making it all the more $Bbadass$b.  Unfortunately for you, the door is locked.  Good luck getting it open.
+#LOGOFF 128
+#END
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 146
+#PICT 131
+$C7AIN
+#PICT 175
+$C7Thank you for meeting me here on the snowy cliffside.  I understand it was probably dangerous for you to get here.  Ordinary you would be able to find the $Bicon$b in the room shown here, its intended sanctuary, but I can tell you with certainty that the $BSpring Icon$b is no longer present in this building.
+
+After some investigation, I managed to get $C2Fractilion$C7 to admit he took it.  He doesn't know I've given him up, and I know he plans to use the energy of the icon for some $Bclandestine project$b.  He's most certainly taken it to his secluded $Bpalace in the hills$b.  $C1Dogun$C7 will likely have you search for it there.  You should head $BNorth$b to the $Btop of the cave$b and speak to him.
+#PICT 175
+$C7It is precisely the anticipation of such a situation that led $C1Dogun $C7to assign me to $C2Fractilion's$C7 supervision.  He is a wily soul who has never quite given up the petty greed of his human ways for the calm usually present in this place.
+#LOGOFF 131
+#END
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 146
+#PICT 140
+$C5Fractilion
+#PICT 143
+$C5Sometimes I still dream of a world with money.  I was rich, you know.
+Believe me when I say I will make $Ba killing$b in this land as well.
+
+There are those that would say I am bound by the 'dough handcuffs'.
+
+
+Concerning more pressing matters, the $Bfunny little green spot on the wall$b in this most curious tar colored room is significant, I can tell you that much.
+#LOGOFF 142
+#END
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 146
+#PICT 129
+$C1Dogun
+$C4Salve
+#PICT 147
+$C4This is Salve, explaining to you on Dogun's behalf that you must both collect the $Bspring icon$b for the $C1WORLD VOICE $C4and go $Boutside$b to the West to talk to $C7AIN $C4before you may leave this area through this terminal for your next job.
+#LOGOFF 129
+#END
+#FINISHED
+#LOGON 146
+#PICT 129
+$C1Dogun
+$C4Salve
+#PICT 149
+$C1Dogun$C4 is furious at $C5Fractilion's$C4 audacity to take the $BSpring Icon$b to his personal dwelling place.  We depart at once.
+#LOGOFF 129
+#INTERLEVEL TELEPORT 5
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 139
+#PICT 145
+$C5"Such pain to $BKNOW$b what we $BKNOW$b..."
+
+His words escaped through the triangles formed by the spacial relations between his fingers, pressed over his face.  His t-shirt, comically covered in half-worn off logos, was wrapped around his head like a turban.  
+His hands formed a warrior mask.  He was confident the others heard him.
+
+He crouched down, and smoothly formed his hands into a single grasping claw in front of his head.  In his tribe of one, he alone had knowledge of these movements.  His actions were sharply contrary to the ordinary apartment bathroom in which they took place.  There were thousands like it; hundreds of thousands.
+
+"If nothing else, you will be frightened by my strangeness."
+#PICT 145
+$C5(the spring icon $Bshould be here$b.  Someone has $Btaken$b it.)
+#LOGOFF 139
+#END
+#ENDTERMINAL 6

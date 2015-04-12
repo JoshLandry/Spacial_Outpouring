@@ -1,0 +1,111 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 146
+#PICT 140
+$C5Fractilion
+#PICT 141
+$C5Welcome to the $Bforested palace of enzyme$b, my preferred dwelling place.  Historically, it's been a quiet getaway; somewhere I could conduct my business without interference.
+
+I like to be able to hear the whisper of the wind through the leaves; it helps me think.
+#PICT 141
+$C5Lately, I've come to realize I've got more than a few neighbors, and too close for comfort.
+
+Can you imagine the pretense of a being that has named itself $C1'WORLD VOICE'$C5?  But I digress...
+#LOGOFF 140
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 146
+#PICT 140
+$C5Fractilion
+#PICT 165
+$C5Behold, my latest masterpiece, the $BElectric Growgrid$b.  Precisely contructed and perfectly resilient holofoil technology designed to allow trees and other flora to survive under virtually any conditions.
+
+As my corporeal form is lacking at the moment, if you could be a dear and $Braise the grids from the pond$b for their daily drying and information gathering cycle.
+
+You'll need to grab my $Bspring icon$b in order to have the proper permissions to operate the grids from the $Bpump station$b.  I think I left it in the $Bgold room$b on the ledge in the Southwest of the palace.  You walked passed it on your way here.
+#LOGOFF 140
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 146
+#PICT 129
+$C1Dogun
+#PICT 166
+$C1<cannot parse input data>
+<cannot parse input data>
+<cannot parse input data>
+<cannot parse input data>
+<cannot parse input data>
+#LOGOFF 146
+#END
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 129
+#PICT 148
+$C1WORLD VOICE
+#PICT 151
+$C1((dead feed))
+.
+((dead feed))
+.
+((dead feed))
+.
+((dead feed))
+.
+((dead feed))
+.
+((dead feed))
+.
+((dead feed))
+.
+#LOGOFF 169
+#END
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 146
+#PICT 140
+$C5Fractilion
+#PICT 144
+$C5What's the matter? ...you can't climb up onto the ledge?  Tsk, tsk, I'm disappointed by your lack of resourcefulness.  Don't you have a $Bcoffee crystal$b or some such implement?  You will need one eventually, you know.
+
+Very well, I'll bring you up there myself.
+#LOGOFF 140
+#INTRALEVEL TELEPORT 168
+#FINISHED
+#LOGON 146
+#PICT 148
+$C1WORLD VOICE
+$C5Fractilion
+$C2Ashita
+#PICT 167
+$C5FRACTILION's $C1GROWGRID $BABOMINATIONS$b ARE NOT PERMITTED AT PROXIMITY TO WORLD CENTER.
+
+$C5How dare you use this creature as an instrument to enforce your petty rules!  And over something so benign.  They're trees, god damnit.
+
+$C1YOU KNOW VERY WELL THE TREES ARE NOT THE PROBLEM.
+
+THE POWER ICON WAS $BREMOVED WITHOUT PERMISSION$b.
+
+SAVE YOUR OBSTINANCE FOR A BEING WITH FEELINGS.
+
+YOU ARE HEREBY EXPELLED TO (NEXT MOST DISTANT QUARTER).
+
+$C5But!?DAK()@J%)(R*E()*X()C*IADA@KD{}).......... {disconnected}
+
+$C2This is Ashita.  You are needed elsewhere.  Fractilion jumps at any chance for a squabble with authority. This isn't the best use of your attention.
+
+The place I am taking you could very well annihilate you, but the reward will be great if we succeed.  We are going to steal the most prized possession of a very dark man.
+#LOGOFF 132
+#INTERLEVEL TELEPORT 6
+#ENDTERMINAL 4
+;

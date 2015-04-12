@@ -1,0 +1,56 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 146
+#PICT 128
+$C4Salve
+#CHECKPOINT 0
+$C4Your mission is to reach the $C2Central Xontrol room $C4so that we can disengage the safeties and obtain the charge crystals.  You can view the crystals and hear their signature otherworldly whine in the observation lounge behind you.  You will come to associate this sound with the severe distortion of time, and cataclysmic events!
+#PICT 134
+$C4Currently, it would seem you are locked in this area.  According to $C1Dogun,$C4 your kind is only permitted into the main complex through the $BDoggy Door$b, pictured here, and even then, only by completion of an elaborate $Bobedience test$b.  If you find this too degrading to your dignity, you can look for another way in.
+#LOGOFF 128
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 146
+#PICT 131
+$C7AIN
+#PICT 135
+$C7You can reach the Xontrol room by following the Glyphic Dens to the Northwest and dropping to the Haunted Basement.  There is a switch which lets off a timed series of doors and elevators that will take you to a tesseracting corridor that leads unimpeded to the Xontrol Room.  It's the straightest shot you've got, but you'll have to be quick, and you may only have a single chance.
+#PICT 137
+$C7You can reach the Xontrol room by following the Glyphic Dens to the Northwest and dropping to the Haunted Basement.  There is a switch which lets off a timed series of doors and elevators that will take you to a tesseracting corridor that leads unimpeded to the Xontrol Room.  It's the straightest shot you've got, but you'll have to be quick, and you may only have a single chance.
+#LOGOFF 131
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 146
+#PICT 132
+$C2Ashita
+#PICT 136
+$C2If you'd rather avoid the haunted basement, you can open the Xontrol room's main door with this failsafe switch on the upper floors.  To get there, enter the Glyphic Dens to the North, from the large clearing just to the right of this room.  Keep to the right and avoid any pitfalls, and you should reach some tesseracting corridors that lead to the failsafe.  Keep some ammo handy, you may need to shoot some switches.
+#PICT 138
+$C2If you'd rather avoid the haunted basement, you can open the Xontrol room's main door with this failsafe switch on the upper floors.  To get there, enter the Glyphic Dens to the North, from the large clearing just to the right of this room.  Keep to the right and avoid any pitfalls, and you should reach some tesseracting corridors that lead to the failsafe.  Keep some ammo handy, you may need to shoot some switches.  
+#PICT 132
+$C2Don't think too hard about Dogun or his games, his 'higher-minded' tests are often circular, designed primarily to see how far he can guide one into illogical spirals.  He's spent too long in the upper atmosphere, and answers to some foreign whispers.
+#LOGOFF 132
+#END
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 146
+#PICT 129
+$C1 Dogun
+#PICT 150
+$C1<cannot parse input data>
+<cannot parse input data>
+<cannot parse input data>
+<cannot parse input data>
+<cannot parse input data>
+#LOGOFF 129
+#INTERLEVEL TELEPORT 2
+#ENDTERMINAL 3

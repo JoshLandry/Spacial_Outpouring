@@ -1,0 +1,85 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 146
+#PICT 128
+$C4Salve
+#PICT 128
+$C4Hello?  Yes, are you awake?  Ah good, yes, I can see you.  It's been too long since Dogun summoned you.  One could sleep forever in the soft blue glow of this place...  You can see in your map view, it bears the shape a $Bholy relic$b...  but I'm afraid our entire enclave is overrun by disgusting insectoids...?  We're going to need to develop a real strategy and there's $Blittle time for explanation$b.
+
+It's a good thing I found you before $C1Dogun$C4 or some other ill intentioned entity!  Who knows what corner of $Bwonderland$b you could've found yourself in.  I understand it might be a little tempting to $Bpeek beneath the bridge$b, but if you do, be prepared to experience one thousand fold gravity, or some other such utterly unfair nonsense.  His language-less mannerisms allow him to unfeelingly observe his subjects buckle under the pressure.
+#PICT 128
+$C4Essentially I, Salve, and the other caretakers of lower floors, $C7AIN$C4 and $C2Ashita$C4, have $Bcodified$b our corporeal bodies in order to avoid the experience of very real murder at the hands of some rather unsightly creatures.  We have survived, but have lost the ability to interact with the physical world.
+
+If you've any physical strength to do so, I recommend you disembowel every last one of the foul monsters.  We've really no idea where they came from, and it certainly wasn't the fault of any of us three.  I can assure you, the integrity of our $Btrinity$b at least is sound.  $B400 years$b, now, we have existed.
+
+Quickly then, let's be off, I shudder to think of their corrosive yellow bile staining our temple tiles.
+#LOGOFF 128
+#INTERLEVEL TELEPORT 1
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 146
+#PICT 129
+$C1Dogun
+#PICT 130
+$C1(unable to parse input)
+.
+(unable to parse input)
+.
+(unable to parse input)
+.
+(unable to parse input)
+.
+(unable to parse input)
+. . . . . . . . . . . . 
+#LOGOFF 129
+#INTERLEVEL TELEPORT 5
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 146
+#PICT 148
+$C1WORLD VOICE
+#PICT 167
+$C1your ARRIVAL IS TIMELY..
+
+
+SUCH A MESS THESE BUMBLING CREATURES HAVE MADE
+
+OF MY MULTI-TIERED WORLD.
+#PICT 167
+$C1I SPEAK IN CAPITAL LETTERS.
+
+I LACK THE PATIENCE FOR EXPOSITION.
+
+
+
+
+CURRENTLY YOU RESIDE IN your SANCTUARY at THE BASE OF A CONE ENCLOSURE HOUSING A NUMBER OF floors
+
+IF YOU SUCCEED YOU WILL RETURN HERE.
+#PICT 167
+$C1SUFFICE TO SAY YOU ARE A BEING OF SOME ABILITY
+
+but THE CREATuRES YOU MEET WILL $BTALK DOWN TO YOU$b
+
+
+
+YOU ARE THE SHINY NEW HEAD OF MY $BMOP$b.
+#PICT 167
+$C1IT IS MY HOPE YOU WILL ENACT MY PLAN WITHOUT NEEDING TO BE directly TOLD.
+
+
+$C1(the source of the mistake will be made clear)
+
+
+Flip on the lights to start your journey.
+
+Choose a master wisely.
+#LOGOFF 169
+#END
+#ENDTERMINAL 2
+;

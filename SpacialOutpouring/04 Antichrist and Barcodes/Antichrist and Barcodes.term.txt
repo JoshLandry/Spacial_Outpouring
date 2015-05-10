@@ -3,6 +3,12 @@
 #UNFINISHED
 #LOGON 163
 $C1Forrest
+#PICT 163
+$C1 Will you help me find my friend's cat $BBoink$b?  He ran off some place...  You know how cats get about nooks and crannies.
+
+I think if you take a running leap through those $Bcolumns of water$b, and time it just right, you might be able to find the right ledge...  There's a strange momentum to this place.
+
+I last saw him slinking somewhere at the far end of that long, high-ceilinged room there. 
 #LOGOFF 163
 $C1See you later.
 #END
@@ -12,6 +18,8 @@ $C1See you later.
 #UNFINISHED
 #LOGON 164
 $C1Boink
+#PICT 164
+$C1Meow.  Mrow mow meow.  Mrrrow.
 #LOGOFF 164
 #INTERLEVEL TELEPORT 8
 #ENDTERMINAL 1

@@ -18,6 +18,10 @@ $BFractilion's$b realm borders this one, and thus you may be hearing from him, a
 ;
 #TERMINAL 1
 #UNFINISHED
+#LOGON 146
+#PICT 148
+$C1(nothing is printed on the screen, but you hear a murmur of female voices)
+#LOGOFF 146
 #END
 #ENDTERMINAL 1
 ;
@@ -29,7 +33,7 @@ $C5Fractilion
 #PICT 140
 $C5 I must say, quite unwise of you to bumble on down here without snatching up the sorceror's $Bcoffee crystal$b first.  You're going to take a dip in some boiling goo trying to jump your way out of here.
 
-In all seriousness, though, I think Ashita was crazy to send you here.  I wouldn't be surprised if the sheer illogic of this place stunted your growth henceforth.  All you need to do is take a look at the female body parts locked into the walls to understand the kind of fate you could meet.  If you're trying to open some doors you might have better luck opening some mouths or eyes first...
+In all seriousness, though, I think $C2Ashita$C5 was crazy to send you here.  I wouldn't be surprised if the sheer illogic of this place stunted your growth henceforth.  All you need to do is take a look at the female body parts locked into the walls to understand the kind of fate you could meet.  If you're trying to open some doors you might have better luck opening some mouths or eyes first...
 #LOGOFF 146
 #INTRALEVEL TELEPORT 131
 #ENDTERMINAL 2
@@ -69,7 +73,7 @@ $C5Fractilion
 #PICT 140
 $C5Well then, you've got the crystal.  I wasn't sure you had it in you!  You're going to want to head East and get outside somehow, but if you try to walk through the $BDeath Tunnel(TM)$b you'll likely end up another brightly colored radioactive skull.  He paints them, you know.
 
-I'm sure there's got to be some kind of $Bway around$b.
+Once you get out there it's just a matter of $Bjumping up onto the transporter pad$b.  I'm sure there's got to be some kind of $Bway around$b.
 #LOGOFF 146
 #INTRALEVEL TELEPORT 382
 #ENDTERMINAL 4
@@ -79,6 +83,12 @@ I'm sure there's got to be some kind of $Bway around$b.
 #LOGON 146
 #PICT 148
 $C3WORLD VOICE
+#PICT 148
+$C3SUSPICIOUS LACK OF ACTIVITY IN REGION FOR UPWARDS of $B4 LUNAR CYCLEs$b was INTERRUPTED YESTERDAY by soft SOLAR MURMURS of negligible intensity.
+
+$BSCOUT AGENT$b has yet to submit FOLLOW UP REPORT on $BFRAUDULENT EMISSION STRATEGIES$b designed to fool the archaic previous auditing system.
+
+UNNATURAL NATURE OF INACTIVITY in region has been noted and set to SECONDARY INVESTIGATION PRIORITY.
 #LOGOFF 146
 #END
 #ENDTERMINAL 5

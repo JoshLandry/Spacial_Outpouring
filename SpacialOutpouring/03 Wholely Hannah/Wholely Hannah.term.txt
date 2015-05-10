@@ -5,18 +5,18 @@
 #PICT 131
 $C7AIN
 #PICT 131
-$C7Your primary job here is retrieve the summer icon from the caverns beneath the Southwestern part of the citadel, in order to prevent its acquisition by the likes of $C5Fractilion$C7 during this unfortunate invasion.  Indeed, quite possibly he poses more of a threat than the insectoids.
-
-From what I've heard, the only way to get down there is to $Bjump into the fungus pit$b.  Certainly disgusting, but you should come out unscathed, and I doubt many of these $Bnasty creatures$b have made it down there.
+$C7Your primary job here is retrieve the summer icon from the caverns beneath the Southwestern part of the citadel, in order to prevent its acquisition by the likes of $C5Fractilion$C7 during this unfortunate invasion.  Quite possibly, he poses more of a threat than the insectoids.  This incident was the perfect cover for him to steal various and sundry $Bvaluable objects$b.
+#PICT 176
+$C7From what I've heard, the only way to get down there is to $Bjump into the fungus pit$b.  Certainly disgusting, but you should come out unscathed, and I doubt many of these $Bnasty creatures$b have made it down there.
 
 The tricky part is going to be $Binserting the icon into its rightful receptacle$b, which is pictured here.  It's in $Bthe sewer$b.  Undoubtedly, you'll be covered in more than one kind of fungus before this is over.  There are at least two ways into the sewer.  You may have already found the locked entrance to $BSewer Node A$B, you may be better off looking for $BSewer Node B$b.  The time I've spent here is minimal, so I'm not sure where it is, but I remember $C5Fractilion$C7 saying it had $Bno door$b.  There's also an $Bimportant switch$b located there.
-#PICT 131
+#PICT 177
 $C7Once the icon has been inserted, you'll be able to smash the $BIcon Powered Xontrol Access Panel$b, pictured here.  You'll likely have to hit it with something pretty hard.  The $Bemergency shutters should auto-close$b if you've done it right.
 
 $C7If you manage to $Bflip the switch at Sewer Node B$b and $Bsmash the Icon Power Xontrol Access Panel$b, you should be able to access both $BXontrol Rooms$b to the East.  Directives from $C3WORLD VOICE$C7 state to destroy any visible wiring in both rooms, terminating the mining and fuel synthesis operations in this sector.  If the $Bfueling heart fills with pink liquid$b, you'll know you've succeeded.
 
-After you're done with all that, find your way to the $Benchanted lounge$b.  If all goes well, I'll have figured a way to get you out of here.
-#LOGOFF 146
+After you're done with all that, find your way upstairs to the $Benchanted lounge$b.  If all goes well, I'll have figured a way to get you out of here.
+#LOGOFF 131
 #END
 #ENDTERMINAL 0
 ;
@@ -30,8 +30,8 @@ $C7This area of the citadel is much older than the rest; it's been here longer t
 
 There's a tunnel that leads out through the back of this lounge to the so-called $Bclaw outpost$b, positioned on a rather jagged cliff.  It hasn't been used for much of anything in years, and when you're done here, you can use the transport capabilities of its terminal for a $Bcovert escape$b from the area.
 
-The tunnel won't be open to you unless you manage to $Blight both of the monkey's eyes$b.  You can blame the ancient creators of this place for the esoteric animal symbolism.
-#LOGOFF 146
+The tunnel won't be open to you unless you manage to $Blight both of the monkey's eyes$b, which likely won't be possible until the rest of your work here is done.  You can blame the ancient creators of this place for the esoteric animal symbolism.
+#LOGOFF 131
 #END
 #ENDTERMINAL 1
 ;
@@ -40,11 +40,11 @@ The tunnel won't be open to you unless you manage to $Blight both of the monkey'
 #LOGON 146
 #PICT 140
 $C5Fractilion
-#PICT 140
-$C5Such cautionary tactics as practiced by the $C3WORLD VOICE$C5 would have stopped the entire progression of modern science in its tracks long ago, and are, in the eyes of a pragmatic being such as myself, synonymous with $Bwaste and lost potential$b, for what good is mining ore if the true power of the material is made to $Bremain dormant forever within it!?$b
+#PICT 178
+$C5Such cautionary tactics as practiced by the $C3WORLD VOICE$C5 would have stopped the entire progression of modern science in its tracks long ago, and are, in the eyes of a pragmatic being such as myself, synonymous with $Bwaste and lost potential$b, for what good is mining ore if the true power of the material is made to $Bremain dormant forever within it!?$b  It's no wonder that among such company I serve as my $Bown mentor$b.
 
 Of course, I'm a fool to expect sympathy from you.  Go on, carelessly smash 3000 years of ingenuity with your thuggish caveman hands.
-#LOGOFF 146
+#LOGOFF 142
 #END
 #ENDTERMINAL 2
 ;
@@ -53,7 +53,7 @@ Of course, I'm a fool to expect sympathy from you.  Go on, carelessly smash 3000
 #LOGON 146
 #PICT 133
 $C6WhoWHR.urse
-#LOGOFF 146
+#LOGOFF 133
 #INTERLEVEL TELEPORT 4
 #ENDTERMINAL 3
 ;
@@ -62,7 +62,7 @@ $C6WhoWHR.urse
 #LOGON 146
 #PICT 133
 $C6WhoWHR.urse
-#LOGOFF 146
+#LOGOFF 133
 #INTERLEVEL TELEPORT 7
 #ENDTERMINAL 4
 ;

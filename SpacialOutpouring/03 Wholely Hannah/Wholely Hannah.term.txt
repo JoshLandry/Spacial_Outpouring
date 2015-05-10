@@ -11,7 +11,7 @@ From what I've heard, the only way to get down there is to $Bjump into the fungu
 
 The tricky part is going to be $Binserting the icon into its rightful receptacle$b, which is pictured here.  It's in $Bthe sewer$b.  Undoubtedly, you'll be covered in more than one kind of fungus before this is over.  There are at least two ways into the sewer.  You may have already found the locked entrance to $BSewer Node A$B, you may be better off looking for $BSewer Node B$b.  The time I've spent here is minimal, so I'm not sure where it is, but I remember $C5Fractilion$C7 saying it had $Bno door$b.  There's also an $Bimportant switch$b located there.
 #PICT 131
-$C7Once the icon has been inserted, you'll be able to smash the $BIcon Powered Xontrol Access Panel$b, pictured here.
+$C7Once the icon has been inserted, you'll be able to smash the $BIcon Powered Xontrol Access Panel$b, pictured here.  You'll likely have to hit it with something pretty hard.  The $Bemergency shutters should auto-close$b if you've done it right.
 
 $C7If you manage to $Bflip the switch at Sewer Node B$b and $Bsmash the Icon Power Xontrol Access Panel$b, you should be able to access both $BXontrol Rooms$b to the East.  Directives from $C3WORLD VOICE$C7 state to destroy any visible wiring in both rooms, terminating the mining and fuel synthesis operations in this sector.  If the $Bfueling heart fills with pink liquid$b, you'll know you've succeeded.
 

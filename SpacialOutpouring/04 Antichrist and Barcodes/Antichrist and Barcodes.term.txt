@@ -1,26 +1,28 @@
 ;
 #TERMINAL 0
 #UNFINISHED
-#LOGON 163
+#LOGON 180
+#PICT 163
 $C1Forrest
 #PICT 163
-$C1 Will you help me find my friend's cat $BBoink$b?  He ran off some place...  You know how cats get about nooks and crannies.
+$C1Will you help me find my friend's cat $BBoink$b?  He ran off some place...  You know how cats get about nooks and crannies.
 
 I think if you take a running leap through those $Bcolumns of water$b, and time it just right, you might be able to find the right ledge...  There's a strange momentum to this place.
 
-I last saw him slinking somewhere at the far end of that long, high-ceilinged room there. 
-#LOGOFF 163
-$C1See you later.
+I last saw him slinking somewhere at the far end of that long, high-ceilinged room there.
+#LOGOFF 180
 #END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
-#LOGON 164
+#LOGON 180
+#PICT 164
 $C1Boink
 #PICT 164
 $C1Meow.  Mrow mow meow.  Mrrrow.
-#LOGOFF 164
+#LOGOFF 180
+#LOGOFF 181
 #INTERLEVEL TELEPORT 8
 #ENDTERMINAL 1
 ;

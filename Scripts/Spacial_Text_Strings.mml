@@ -1,0 +1,23 @@
+<marathon>
+<!-- STR# Resource: "Filenames" -->
+<stringset index="129">
+<string index="0">Spacial Outpouring Shapes.shpA</string>
+<string index="2">Spacial Outpouring Sounds.sndA</string>
+<string index="4">Marathon Infinity Preferences</string>
+<string index="5">Spacial Test Merge .25.sceA</string>
+<string index="9">Spacial Standard Physics.phyA</string>
+<string index="10">Spacial Music.ogg</string>
+<string index="11">Spacial Images.imgA</string>
+</stringset>
+
+<!-- STR# Resource: "Weapon Names" -->
+<stringset index="137">
+<string index="0">POWER EMITTER GLOVES</string>
+<string index="1">.44 REPEATER PISTOL</string>
+<string index="2">TRIPLE BURST FUSION GUN</string>
+<string index="6">COFFEE CRYSTAL</string>
+</stringset>
+
+</marathon>
+
+

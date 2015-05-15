@@ -1,23 +1,27 @@
 ;
 #TERMINAL 0
 #UNFINISHED
-#LOGON 180
-#PICT 161
+#LOGON 161
 $C1Elizabeth Globelamp
-#PICT 161
-$C1See you later.
-$LOGOFF 180
+#PICT 162
+$C1FYI did u know it's possible to be a feminist musician and not just scream, play punk, hardcore, or electronic music? Weird huh!
+
+Yes, I just think feminist artists shouldn't feel limited to a few genres of music and that we shouldn't feel like our community is only looking for feminism in a few musical genres because that's what they like.  
+
+Someone can be just as a powerful alone with a guitar, a piano, ukulele, trumpet,  et cetera, as someone screaming in a punk band; both are important, and just because one is more outwardly aggressive doesn't mean the women who aren't as loud aren't fighting for equality...  They are still probably dealing with sexisim in the music industry and have something to say.
+#LOGOFF 180
 #END
 #ENDTERMINAL 0
 ;
 ;
 #TERMINAL 1
 #UNFINISHED
-#LOGON 180
-#PICT 161
+#LOGON 161
 $C1Elizabeth Globelamp
-#PICT 161
-$C1See you later.
+#PICT 158
+$C1So many guys I have dated (also I over hear people doing this to other women frequently) have shamed me for taking photos of myself.  I have been called a slut and an attention whore for taking a $Bpicture$b of myself. 
+#PICT 159 
+$C1Oh sorry, is it only acceptable if it has been taken by a photographer under the male gaze?  We should like ourselves and find the beauty in ourselves, without it being from someone else. So, it's okay for men to paint nude women for hundreds of years, but if a woman takes a photo of herself celebrating herself, she is vain?  Nah, don't think so.  Selfie for life!
 #LOGOFF 180
 #LOGOFF 181
 #INTERLEVEL TELEPORT 8

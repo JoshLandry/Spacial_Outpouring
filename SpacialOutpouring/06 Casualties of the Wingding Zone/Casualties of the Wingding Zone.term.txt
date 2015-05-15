@@ -9,7 +9,7 @@ $C2Here we are at the deceptively beautiful entrance to the realm of the self-st
 #PICT 194
 $C2Yet if one needs a $Bcoffee crystal$b, this is where one must come.  Such a rare and valuable artifact could only been crafted by a solitary, crooked mind.  This is a being far beyond our power to destroy, and so we must tolerate his existence.
 
-I will give no further information, as it is information here that is dangerous.  Dangerous to know the limits to which the mind can be pushed.  $BDO NOT LISTEN TO WHAT HE SAYS$b and perhaps you can come out of here with your soul.
+I will give no further information, as it is information here that is dangerous.  Dangerous to know the limits to which the mind can be pushed.  $BDo not listen to what he says$b and perhaps you can come out of here with your soul.
 
 $C5Fractilion's$C2 realm borders this one, and thus you may be hearing from him, as well.  He spends more time in this region than I ever would, and so he may be of help in directing your path.
 #LOGOFF 132
@@ -19,7 +19,7 @@ $C5Fractilion's$C2 realm borders this one, and thus you may be hearing from him,
 #TERMINAL 1
 #UNFINISHED
 #LOGON 189
-#PICT 179
+#PICT 197
 $C1(nothing is printed on the screen, but you hear a murmur of female voices)
 #LOGOFF 190
 #END
@@ -41,14 +41,21 @@ In all seriousness, though, I think $C2Ashita$C5 was crazy to send you here.  I 
 #TERMINAL 3
 #UNFINISHED
 #LOGON 189
-#INFORMATION
-$C1 "A" has been a good sport about her division across the complex.  Her component parts have been more than cooperative on an individual basis, though seem to possess an as yet unexplained telepathic link of some kind...?  
+#PICT 198
+$C1"A" has been a good sport about her division across the complex.  Her component parts have been more than cooperative on an individual basis, though seem to possess an as yet unexplained telepathic link of some kind...?  
 
 "C", ever the stubborn one, still refuses to open her eyes unless I give her a little more juice from the $Bmachine room$b, and then looks at me with the fiercest glare, like she might rip herself out of the wall (but of course she can't... ha!).
 
 "E" was another strong will, a problem solved only by the unnatural distance that now exists between her tongue and her toes.
 
-I stare at you through eyes of "E" and "S"...  just like I'd always imagined!  As you walk these halls, you'll see a number of my dreams realized.  You may call me a $Bface pirate$b.  Frankenstein was no monster to me.
+I stare at you through eyes of "E" and "S"...  just like I'd always imagined!  As you walk these halls, you'll see a number of my dreams realized.
+
+
+
+
+
+
+You may call me a $Bface pirate$b.  Frankenstein was no monster to me.
 #LOGOFF 190
 #END
 #ENDTERMINAL 3
@@ -61,7 +68,7 @@ $C5Fractilion
 #PICT 191
 $C5What's the matter, are you lost?  The $Bsad puzzle pieces$b will only stare at you.  This place has been still for quite some time.  The $Bcoffee crystal$b throbs nearby (below), but the doors are sealed tight.  A council of three women decide who passes through the entrance.
 
-The wizard has placed high windows throughout the citadel, which he passes through with ease (with aid of the $Bcrystal$b), but can easily deter intruders such as yourself who lack the ability to scale a wall.  My sources tell me it is impossible to reach the $Bconsulting room$b from here (the $BGreen Ring$b) on foot.
+The wizard has placed high windows throughout the citadel, which he passes through with ease (with aid of the $Bcrystal$b), but can easily deter intruders such as yourself who lack the ability to scale a wall.  My sources tell me it is impossible to reach the $BConsulting Room$b from here (the $BGreen Ring$b) on foot.
 
 You're lucky I'm here to help you.  Back to the $Bwingding zone$b with you, then.
 #LOGOFF 140
@@ -99,12 +106,37 @@ $C1<input error>
 #UNFINISHED
 #LOGON 187
 #PICT 182
-$C1. . . . . . . .
+$C1
+. . . . . . . .
+remote connection established
 #PICT 184
-$C1. . . . . . . .
+$C1
+. . . . . . . .
+remote connection established
+. . . . . . . .
+abstraction subroutine restricted
 #PICT 183
-$C1. . . . . . . .
-#LOGOFF 179
+$C1
+. . . . . . . .
+remote connection established
+. . . . . . . .
+abstraction subroutine restricted
+. . . . . . . .
+development tier path reserved for maintenance entities only
+. . . . . . . .
+#PICT 179
+$C1
+. . . . . . . .
+remote connection established
+. . . . . . . .
+abstraction subroutine restricted
+. . . . . . . .
+development tier path reserved for maintenance entities only
+. . . . . . . .
+$Bautomatic system wipe and reboot$b
+.   .   .   .
+#LOGOFF 170
+$C1<input error>
 #END
 #ENDTERMINAL 6
 ;
